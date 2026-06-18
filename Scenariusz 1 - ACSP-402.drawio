@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Strona-1" id="z8KAe0LmT8Zc7_pRFNcT">
-    <mxGraphModel dx="2001" dy="2671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,8 +103,8 @@
         <mxCell id="6_1prXv-E_gUM5x_UOCS-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;div align=&quot;left&quot;&gt;Widok na centralę i moduł ETH, już bez widocznego lektora, można strzałkami pokazywać lub śrubokrętem lokalizację złączy&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;ACSP-ETH has on the board:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- RJ-45 socket for connecting LAN network. Green LED is on when module is connected to network, Yellow LED is flashing during data transmission&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- reset button&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- D1 and D2 LED. D1 LED is on, when module is connected to network, D2 LED is on when power supply is present, LED is flashing during communication&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;nbsp;RS485 communication bus and power inputs&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="250" width="330" x="2280" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="6_1prXv-E_gUM5x_UOCS-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;br&gt;&lt;div align=&quot;left&quot;&gt;Widok na moduł i centralę, instalator wykonuje po kolei czynności, lektor czyta:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Screw the ACSP-ETH module to the bottom of the control panel&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Connect the module to the control panel using the RS-485 bus (obrazek nr3 z instrukcji na części ekranu)&lt;div align=&quot;left&quot;&gt;3. Connect the module to the Ethernet network and to power supply (obrazek nr4 z instrukcji na części ekranu)&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Let&#39;s switch now to ACSP Soft to configure our module&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(Odpalamy widok monitora i następuje konfiguracja)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-dodac tlumaczenia&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="460" width="330" x="2280" y="790" as="geometry" />
+        <mxCell id="6_1prXv-E_gUM5x_UOCS-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;br&gt;&lt;div align=&quot;left&quot;&gt;Widok na moduł i centralę, instalator wykonuje po kolei czynności, lektor czyta:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Screw the ACSP-ETH module to the bottom of the control panel&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Connect the module to the control panel using the RS-485 bus (obrazek nr3 z instrukcji na części ekranu)&lt;div align=&quot;left&quot;&gt;3. Connect the module to the Ethernet network and to power supply (obrazek nr4 z instrukcji na części ekranu)&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Let&#39;s switch now to ACSP Soft to configure our module&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(Odpalamy widok monitora i następuje konfiguracja)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. In the RS-485 devices page, enable ACSP-ETH module. If you want adress and DNS to be automatically given by your router, select these options. If you have dedicated IP address, specify it below.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. To use Virtual APSP later on, enable it and set password for standard user and service team. Default port is 80&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="650" width="330" x="2280" y="790" as="geometry" />
         </mxCell>
         <mxCell id="0qluF64Sdjj_I7BYTujH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" value="" vertex="1">
           <mxGeometry height="430" width="330" x="2740" y="790" as="geometry" />
@@ -147,6 +147,48 @@
         </mxCell>
         <mxCell id="0qluF64Sdjj_I7BYTujH-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
           <mxGeometry height="430" width="330" x="3110" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" value="" vertex="1">
+          <mxGeometry height="430" width="330" x="3570" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Jak podłączyć gniazdo DB-400, czujkę dymu i ciepła DMP-400 i wskaźnik WZ-110 z centralą ACSP-402 ?" vertex="1">
+          <mxGeometry height="60" width="330" x="3570" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div&gt;Widok na centralę z elementami na tablicy, stojący lektor wita się i mówi:&lt;/div&gt;&lt;div&gt;Witaj na kanale Satel&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;W dzisiejszym filmie, przedstawimy Wam rodzinę adresowalnych czujek dymu i ciepła, pokażemy także jak zamontować gniazdo, czujkę i wskaźnik zadziałania&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="330" x="3570" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;DODAC SEKCJE Z RODZAJEM URZADZEN I KROTKIM OPISEM&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Widok na gniazdo i przewody, czujka i WZ leżą obok, już bez widocznego lektora, można strzałkami pokazywać lub śrubokrętem lokalizację złączy&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Podstawę przymocowujemy do sufitu i przygotowujemy przewody. Przewody mogą być wprowadzone przez dno lub boki podstawy&amp;nbsp;(obrazki 1 i 2 z instrukcji) Możliwy jest&amp;nbsp;także montaż przy użyciu podstawy przemysłowej PDB-100 (rysunek 3)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Następnie do gniazda podłączamy przewody początku i końca pętli (obrazek 5)&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Komentarz:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Zwróć uwagę na długości żył kabla i żyły ochronnej, Przewody nie powinny być zbyt długie, aby uniknąć przypadkowych przywarć do styków&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Jeśli do czujki ma być podłączony wskaźnik zadziałania WZ-110, podłączamy go zgodnie z instrukcja (rysunke 6)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="410" width="330" x="3570" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Tekst Polski" vertex="1">
+          <mxGeometry height="60" width="330" x="3570" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="Tekst Angielski" vertex="1">
+          <mxGeometry height="60" width="330" x="3940" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Scenariusz 4 - SDA-250" vertex="1">
+          <mxGeometry height="60" width="700" x="3570" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div&gt;Chwilowy widok na gotową centralę, komentarz lektora:&lt;/div&gt;&lt;div&gt;1) W tym momencie czujka i wskaźnik zadziałania zostały poprawnie podłączony do centrali&lt;/div&gt;&lt;div&gt;2)&amp;nbsp;Oczywiście teraz pozostało nam identyfikacja &lt;br/&gt;urządzeń w systemie, ale na to zapraszamy do kolejnego odcinka&lt;/div&gt;&lt;div&gt;3)Jeśli materiał Ci się podobał, zostaw kciuk w górę. Masz uwagi, sugestie lub propozycje odcinka? Zostaw komentarz pod filmem. Dzięki za uwagę i do zobaczenia&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="330" x="3570" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Satel Fire jakaś animacja wieńcząca dzieło" vertex="1">
+          <mxGeometry height="60" width="700" x="3570" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;div&gt;Chwilowy widok na gotową centralę, komentarz lektora:&lt;/div&gt;&lt;div&gt;1) At this moment, our sensor and indicator are correctly connected to the control panel&lt;/div&gt;&lt;div&gt;2)&amp;nbsp; Obviosly now all we have to is add our devices to the panel. But this will be covered in our next video.&lt;/div&gt;&lt;div&gt;3) If you liked this material, leave a thumbs up. Have a suggestion, video proposition ? Leave a comment and subscribe to this channel, not to miss next episode.Stay safe and see you in the next video&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="330" x="3940" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="How to install DB-400 dectector base, DMP-400 smoke and heat detector and WZ-110 alarm indicator" vertex="1">
+          <mxGeometry height="60" width="330" x="3940" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;div&gt;Widok na centralę z elementami na tablicy, stojący lektor wita się i mówi:&lt;/div&gt;&lt;div&gt;&quot;Welcome to Satel channel&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In today&#39;s video, we will present you family of addressable smoke and heat detectors, we will also show how to install detector base and connect alarm indicator&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="330" x="3940" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="330" x="3940" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="0qluF64Sdjj_I7BYTujH-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
+          <mxGeometry height="430" width="330" x="3940" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
