@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Strona-1" id="z8KAe0LmT8Zc7_pRFNcT">
-    <mxGraphModel dx="744" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2001" dy="2671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0EHHFv7u1sgkDXgEne3z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div align=&quot;left&quot;&gt;Widok na samą obudowę, zmieniany na płytę główną, instalator wykonuje po kolei czynności, lektor czyta:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1.&amp;nbsp; Zaczynamy od powieszenia centralę na ścianie, zmiana kamery na centralę&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Wprowadzamy przewody i podłączamy:&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;a) przewód zasilający 230V (komentarz: instalacja zasilająca musi spełniać wymogi rozporządzenia Ministra Infrastruktury w sprawie WT jakim powinny odpowiadać budynki i ich usytuowanie),&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;b) przewody linii dozorowych (komentarz: najbardziej powszechnym rodzajem jest instalacja pętlowa, możliwe jest również wykonanie topologii promieniowej lub pętlowej z odgałęzieniami - na części ekranu rysunek)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;c) linia sygnałowe i wyjścia sterujące (komentarz: z wyjścia FRE TX możemy w razie konieczności stworzyć dodatkowe wyjście sygnałowe, wyjścia sygnałowe oraz uszkodzeń i pożaru wymagają stosowania rezystorów końcowych&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;d) wejścia kontrolne (również mogą wymagać rezystorów końca linii)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;d) podłączamy akumulator do centrali (komentarz:&amp;nbsp;Jako źródło zasilania rezerwowego stosowany jest pojedynczy akumulator 12V)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;e) podłączenie przewodu USB do centrali komputera (komentarz: do konfiguracji używamy przewodu USB A-B tzw. drukarkowego&lt;/div&gt;" vertex="1">
-          <mxGeometry height="460" width="330" x="1080" y="630" as="geometry" />
+          <mxGeometry height="460" width="330" x="1080" y="790" as="geometry" />
         </mxCell>
         <mxCell id="0EHHFv7u1sgkDXgEne3z-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div&gt;Jak wygląda nowoczesny system pozarowy? Na przykładzie centrali ACSP - 402 od Satel&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="330" x="1080" y="40" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry height="250" width="330" x="1080" y="350" as="geometry" />
         </mxCell>
         <mxCell id="0EHHFv7u1sgkDXgEne3z-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Podłączenie i topologia&lt;/div&gt;&lt;div&gt;120-180 s&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="920" y="660" as="geometry" />
+          <mxGeometry height="60" width="120" x="920" y="820" as="geometry" />
         </mxCell>
         <mxCell id="0EHHFv7u1sgkDXgEne3z-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Intro filmu&lt;/div&gt;&lt;div&gt;3 s&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="920" y="40" as="geometry" />
@@ -38,19 +38,19 @@
           <mxGeometry height="60" width="700" x="1080" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="0EHHFv7u1sgkDXgEne3z-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Zakończenie i zaproszenie&lt;/div&gt;&lt;div&gt;30 s&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="920" y="1320" as="geometry" />
+          <mxGeometry height="60" width="120" x="920" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="0EHHFv7u1sgkDXgEne3z-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div&gt;Chwilowy widok na gotową centralę, komentarz lektora:&lt;/div&gt;&lt;div&gt;1) W tym momencie przewody zostały poprawnie podłączone do centrali&lt;/div&gt;&lt;div&gt;2) Oczywiście teraz pozostało nam jej zaprogramowanie i identyfikacja urządzeń, które podłączyliśmy, ale na to zapraszamy do kolejnego odcinka&lt;/div&gt;&lt;div&gt;3) Jeśli materiał Ci się podobał, zostaw kciuk w górę. Masz uwagi, sugestie lub propozycje odcinka? Zostaw komentarz pod filmem. Dzięki za uwagę i do zobaczenia&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="330" x="1080" y="1320" as="geometry" />
+          <mxGeometry height="160" width="330" x="1080" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="0EHHFv7u1sgkDXgEne3z-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Satel Fire jakaś animacja wieńcząca dzieło" vertex="1">
-          <mxGeometry height="60" width="700" x="1080" y="1510" as="geometry" />
+          <mxGeometry height="60" width="700" x="1080" y="1670" as="geometry" />
         </mxCell>
         <mxCell id="0EHHFv7u1sgkDXgEne3z-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Zakonczenie filmu&lt;/div&gt;&lt;div&gt;2 s&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="920" y="1510" as="geometry" />
+          <mxGeometry height="60" width="120" x="920" y="1670" as="geometry" />
         </mxCell>
         <mxCell id="0EHHFv7u1sgkDXgEne3z-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;div&gt;Chwilowy widok na gotową centralę, komentarz lektora:&lt;/div&gt;&lt;div&gt;1) At this moment, all wires are firmly connected to fire panel&lt;/div&gt;&lt;div&gt;2) Obviosly now all we have to is add our devices to the panel and set all functions that are needed. But this will be covered in our next video, for which you are invited&amp;nbsp;&lt;/div&gt;&lt;div&gt;3) If you liked this material, leave a thumbs up. Have a suggestion, video proposition ? Leave a comment and subscribe to this channel, not to miss next episode.Stay safe and see you in the next video&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="330" x="1450" y="1320" as="geometry" />
+          <mxGeometry height="160" width="330" x="1450" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="0EHHFv7u1sgkDXgEne3z-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="How does a modern fire system looks like? Looks like ACSP-402 by Satel" vertex="1">
           <mxGeometry height="60" width="330" x="1450" y="40" as="geometry" />
@@ -62,10 +62,10 @@
           <mxGeometry height="250" width="330" x="1450" y="350" as="geometry" />
         </mxCell>
         <mxCell id="0EHHFv7u1sgkDXgEne3z-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;div align=&quot;left&quot;&gt;Widok na samą obudowę, zmieniany na płytę główną, instalator wykonuje po kolei czynności, lektor czyta:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1.&amp;nbsp; Installation begins from hanging the control panel on the wall&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Wires are ready to be connected, starting from&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;a) power supply wire 230V (komentarz: power supply instalation should be safe and prepared accoring to your country&#39;s law and best practices)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;b) detection lines wires (komentarz: the most common type of topology are Loops, but it is also possible to use Radial or Loop with side lines - na części ekranu rysunek)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;c) signal and transmission line wires (komentarz: in case of need, you can use fire alarm transmission line as additional, 3rd signal line. Please note that signal lines and fault signal lines require termination resistors)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;d) inputs (komentarz: inputs might also require termination resistors)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;d) battery conection (komentarz: ACSP control panels uses single 12V battery as a backup power supply)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;e) USB cord connection (komentarz: to configure fire control panel from your laptop, we use standard USB A-B cord, so called printer cable)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="460" width="330" x="1450" y="630" as="geometry" />
+          <mxGeometry height="460" width="330" x="1450" y="790" as="geometry" />
         </mxCell>
         <mxCell id="6_1prXv-E_gUM5x_UOCS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div align=&quot;left&quot;&gt;Widok na moduł i centralę, instalator wykonuje po kolei czynności, lektor czyta:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Przykręcamy moduł ACSP-ETH od spodu modułu płyty głównej&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Łączymy moduł z centralą przy pomocy magistrali RS-485 (obrazek nr3 z instrukcji na części ekranu)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. Podłączamy kabel sieciowy i zasilanie (obrazek nr4 z instrukcji na części ekranu)&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Przechodzimy teraz do konfiguracji modułu w programie ACSP Soft&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(Odpalamy widok monitora i następuje konfiguracja)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. W zakładce Urządzenia RS-485, zaznaczamy obsługę modułu, dalej jeśli router ma automatycznie przydzielić adres IP oraz DNS to zaznaczamy te dwie opcje. ( komentarz: jeśli mamy podany ustalony adres z administratorem sieci, wyłączamy DHCP i wpisujemy dane otrzymane z działu IT)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. W polu Aplikacja VAPSP zaznaczamy jej obsługę, wpisujemy hasło dla zwykłego użytkownika oraz serwisowe, wpisujemy port komunikacyjny (komentarz: jeśli wpiszemy port 80 to później w aplikacji nie musimy pamiętać o wpisaniu portu, jednak dla potrzeb przekierowania na zewnątrz należy ten port przekierować na inny port zewnętrzny najlepiej z zakresu 5-io cyfrowego lub użyć połączeń typu VPN)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. Jeśli chcemy korzystać z opcji synchronizacji czasu z serwerem NTP, musimy ją zaznaczyć oraz podać adres serwera czasu&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4. Jeśli chcemy by centrala wysyłała powiadomienie email musimy skonfigurować pole email. Uruchamiamy obsługę powiadomień email, podajemy parametry dla konta poczty wychodzącej, wybieramy czy jest wymagane uwierzytelnienie czy też nie, podajemy do czterech adresów email odbiorców, tworzymy przydział zdarzeń do maili, podajemy okres zwłoki wysłania powiadomień, jest to czas przez który centrala zbiera zdarzenia do wysłania ( komentarz: nie dotyczy to zdarzeń alarmowych, które są wysyłane bez zbędnej zwłoki). Konfigurujemy wysyłanie raportu testowego na określony adres email, oraz okres raportowania. Emaile diagnostyczne wychodzą pierwszego dnia okresu raportowania. Po skończonej konfiguracji zapisujemy konfigurację klikając na pole Wyślij a następnie zapisujemy do Pamięci nieulotnej.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="650" width="330" x="1910" y="630" as="geometry" />
+          <mxGeometry height="650" width="330" x="1910" y="790" as="geometry" />
         </mxCell>
         <mxCell id="6_1prXv-E_gUM5x_UOCS-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Jak skonfigurować moduł ETH aby pracował z centralą ACSP-402 ?" vertex="1">
           <mxGeometry height="60" width="330" x="1910" y="40" as="geometry" />
@@ -86,13 +86,13 @@
           <mxGeometry height="60" width="700" x="1910" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="6_1prXv-E_gUM5x_UOCS-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div&gt;Chwilowy widok na gotową centralę, komentarz lektora:&lt;/div&gt;&lt;div&gt;1) W tym momencie moduł zostały poprawnie podłączony do centrali&lt;/div&gt;&lt;div&gt;2) Mamy również ustawioną komunikację z programem&lt;/div&gt;&lt;div&gt;3)Jeśli materiał Ci się podobał, zostaw kciuk w górę. Masz uwagi, sugestie lub propozycje odcinka? Zostaw komentarz pod filmem. Dzięki za uwagę i do zobaczenia&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="330" x="1910" y="1320" as="geometry" />
+          <mxGeometry height="160" width="330" x="1910" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="6_1prXv-E_gUM5x_UOCS-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Satel Fire jakaś animacja wieńcząca dzieło" vertex="1">
-          <mxGeometry height="60" width="700" x="1910" y="1510" as="geometry" />
+          <mxGeometry height="60" width="700" x="1910" y="1670" as="geometry" />
         </mxCell>
         <mxCell id="6_1prXv-E_gUM5x_UOCS-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;div&gt;Chwilowy widok na gotową centralę, komentarz lektora:&lt;/div&gt;&lt;div&gt;1) At this moment, our module is firmly connected to control panel&lt;/div&gt;&lt;div&gt;2) The communication with the panel is also set up.&lt;/div&gt;&lt;div&gt;3) If you liked this material, leave a thumbs up. Have a suggestion, video proposition ? Leave a comment and subscribe to this channel, not to miss next episode.Stay safe and see you in the next video&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="330" x="2280" y="1320" as="geometry" />
+          <mxGeometry height="160" width="330" x="2280" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="6_1prXv-E_gUM5x_UOCS-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="How to install ACSP-ETH ethernet module to fire panel ACSP-402 ?" vertex="1">
           <mxGeometry height="60" width="330" x="2280" y="40" as="geometry" />
@@ -104,10 +104,10 @@
           <mxGeometry height="250" width="330" x="2280" y="350" as="geometry" />
         </mxCell>
         <mxCell id="6_1prXv-E_gUM5x_UOCS-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;br&gt;&lt;div align=&quot;left&quot;&gt;Widok na moduł i centralę, instalator wykonuje po kolei czynności, lektor czyta:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Screw the ACSP-ETH module to the bottom of the control panel&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Connect the module to the control panel using the RS-485 bus (obrazek nr3 z instrukcji na części ekranu)&lt;div align=&quot;left&quot;&gt;3. Connect the module to the Ethernet network and to power supply (obrazek nr4 z instrukcji na części ekranu)&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Let&#39;s switch now to ACSP Soft to configure our module&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(Odpalamy widok monitora i następuje konfiguracja)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-dodac tlumaczenia&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="460" width="330" x="2280" y="630" as="geometry" />
+          <mxGeometry height="460" width="330" x="2280" y="790" as="geometry" />
         </mxCell>
         <mxCell id="0qluF64Sdjj_I7BYTujH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" value="" vertex="1">
-          <mxGeometry height="430" width="330" x="2740" y="660" as="geometry" />
+          <mxGeometry height="430" width="330" x="2740" y="790" as="geometry" />
         </mxCell>
         <mxCell id="0qluF64Sdjj_I7BYTujH-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Jak podłączyć gniazdo DB-400, czujkę dymu i ciepła DMP-400 i wskaźnik WZ-110 z centralą ACSP-402 ?" vertex="1">
           <mxGeometry height="60" width="330" x="2740" y="40" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry height="200" width="330" x="2740" y="120" as="geometry" />
         </mxCell>
         <mxCell id="0qluF64Sdjj_I7BYTujH-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;DODAC SEKCJE Z RODZAJEM URZADZEN I KROTKIM OPISEM&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Widok na gniazdo i przewody, czujka i WZ leżą obok, już bez widocznego lektora, można strzałkami pokazywać lub śrubokrętem lokalizację złączy&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Podstawę przymocowujemy do sufitu i przygotowujemy przewody. Przewody mogą być wprowadzone przez dno lub boki podstawy&amp;nbsp;(obrazki 1 i 2 z instrukcji) Możliwy jest&amp;nbsp;także montaż przy użyciu podstawy przemysłowej PDB-100 (rysunek 3)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Następnie do gniazda podłączamy przewody początku i końca pętli (obrazek 5)&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Komentarz:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Zwróć uwagę na długości żył kabla i żyły ochronnej, Przewody nie powinny być zbyt długie, aby uniknąć przypadkowych przywarć do styków&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Jeśli do czujki ma być podłączony wskaźnik zadziałania WZ-110, podłączamy go zgodnie z instrukcja (rysunke 6)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="280" width="330" x="2740" y="350" as="geometry" />
+          <mxGeometry height="410" width="330" x="2740" y="350" as="geometry" />
         </mxCell>
         <mxCell id="0qluF64Sdjj_I7BYTujH-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Tekst Polski" vertex="1">
           <mxGeometry height="60" width="330" x="2740" y="-40" as="geometry" />
@@ -128,13 +128,13 @@
           <mxGeometry height="60" width="700" x="2740" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="0qluF64Sdjj_I7BYTujH-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div&gt;Chwilowy widok na gotową centralę, komentarz lektora:&lt;/div&gt;&lt;div&gt;1) W tym momencie czujka i wskaźnik zadziałania zostały poprawnie podłączony do centrali&lt;/div&gt;&lt;div&gt;2)&amp;nbsp;Oczywiście teraz pozostało nam identyfikacja &lt;br/&gt;urządzeń w systemie, ale na to zapraszamy do kolejnego odcinka&lt;/div&gt;&lt;div&gt;3)Jeśli materiał Ci się podobał, zostaw kciuk w górę. Masz uwagi, sugestie lub propozycje odcinka? Zostaw komentarz pod filmem. Dzięki za uwagę i do zobaczenia&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="330" x="2740" y="1320" as="geometry" />
+          <mxGeometry height="160" width="330" x="2740" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="0qluF64Sdjj_I7BYTujH-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Satel Fire jakaś animacja wieńcząca dzieło" vertex="1">
-          <mxGeometry height="60" width="700" x="2740" y="1510" as="geometry" />
+          <mxGeometry height="60" width="700" x="2740" y="1670" as="geometry" />
         </mxCell>
         <mxCell id="0qluF64Sdjj_I7BYTujH-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;div&gt;Chwilowy widok na gotową centralę, komentarz lektora:&lt;/div&gt;&lt;div&gt;1) At this moment, our sensor and indicator are correctly connected to the control panel&lt;/div&gt;&lt;div&gt;2)&amp;nbsp; Obviosly now all we have to is add our devices to the panel. But this will be covered in our next video.&lt;/div&gt;&lt;div&gt;3) If you liked this material, leave a thumbs up. Have a suggestion, video proposition ? Leave a comment and subscribe to this channel, not to miss next episode.Stay safe and see you in the next video&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="330" x="3110" y="1320" as="geometry" />
+          <mxGeometry height="160" width="330" x="3110" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="0qluF64Sdjj_I7BYTujH-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="How to install DB-400 dectector base, DMP-400 smoke and heat detector and WZ-110 alarm indicator" vertex="1">
           <mxGeometry height="60" width="330" x="3110" y="40" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry height="280" width="330" x="3110" y="350" as="geometry" />
         </mxCell>
         <mxCell id="0qluF64Sdjj_I7BYTujH-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
-          <mxGeometry height="430" width="330" x="3110" y="660" as="geometry" />
+          <mxGeometry height="430" width="330" x="3110" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
